@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+  max-width: 480px;
+  margin: auto;
+}
+
+.home-bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.home-top-container {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    text-align: center;
+    padding-top: 90px;
+    padding-bottom: 65px;
+}
+
+.home-heading {
+    font-size: 23px;
+}
+
+.home-description {
+    font-size: 13px;
+}
+
+.home-image {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    border-radius: 10px;
+    background-size: cover;
+    height: 150px;
+    margin: 20px;
+}
+
+.image-heading {
+    color: #ffffff;
+    padding: 50px;
+    font-family: "Bree Serif";
+    font-size: 28px;
+    text-align: center;
+}
+
+.bottom-description {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.home-button {
+    font-family: "Bree Serif";
+    background-color: #8e97fd;
+    color: white;
+    width: 90px;
+    height: 25px;
+    font-size: 12px;
+    border-radius: 15px;
+    border-width: 0px;
+}
+
+.detailed-image {
+    width: 58vh;
+    height: 40vh;
+}
+
+.detailed-bg-container {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.detailed-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 26px;
+}
+
+.detailed-description {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 13px;
+}
+
+.sub-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 17px;
+}
+
+.sub-image {
+    width: 130px;
+    height: 90px;
+}
+
+.sub-image-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.sub-image-description {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 12px;
+}
+
+.image-2 {
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.detailed-bottom-container {
+    padding: 20px;
+}
